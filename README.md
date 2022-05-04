@@ -1,5 +1,9 @@
 # AngularBankline
 
+Projeto feito usando Angular no Front e SpringBoot no Back-End, é necessário utilizar o projeto junto ao [bankline-api](https://github.com/andersonrubiojuca/bankline-api) para funcionar adequadamente.
+
+## Créditos do Angular
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
 ## Development server
